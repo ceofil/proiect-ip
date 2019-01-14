@@ -1,0 +1,2427 @@
+# depslib dependency file v1.0
+1543671344 source:d:\codeblocks\impartirea careului\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	"Button.h"
+	"Board.h"
+
+1543586457 d:\codeblocks\impartirea careului\buton.h
+	<string>
+	"Rect.h"
+	"Geometrie.h"
+
+1543667841 d:\codeblocks\impartirea careului\rect.h
+	<cassert>
+	"Vec2.h"
+
+1543586457 d:\codeblocks\impartirea careului\vec2.h
+
+1543657596 d:\codeblocks\impartirea careului\geometrie.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1543671802 d:\codeblocks\impartirea careului\board.h
+	<cassert>
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"Vec2.h"
+	"Colors.h"
+	<iostream>
+
+1543671932 d:\codeblocks\impartirea careului\colors.h
+	"graphics.h"
+
+1543671191 d:\codeblocks\impartirea careului\button.h
+	<string>
+	"Rect.h"
+	"Geometrie.h"
+
+1543749313 source:c:\users\teo\desktop\cb basic\impartirea careului - copy\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	"Button.h"
+	"Board.h"
+
+1543709290 c:\users\teo\desktop\cb basic\impartirea careului - copy\button.h
+	<string>
+	"Rect.h"
+	"Geometrie.h"
+
+1543709290 c:\users\teo\desktop\cb basic\impartirea careului - copy\rect.h
+	<cassert>
+	"Vec2.h"
+
+1543709288 c:\users\teo\desktop\cb basic\impartirea careului - copy\vec2.h
+
+1543709290 c:\users\teo\desktop\cb basic\impartirea careului - copy\geometrie.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1543749941 c:\users\teo\desktop\cb basic\impartirea careului - copy\board.h
+	<cassert>
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"Vec2.h"
+	"Colors.h"
+	<iostream>
+
+1543748777 c:\users\teo\desktop\cb basic\impartirea careului - copy\colors.h
+	"graphics.h"
+
+1511018390 c:\users\teo\desktop\cb basic\impartirea careului - copy\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1544271469 source:d:\codeblocks\impartirea careului v021218\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	"Button.h"
+	"Board.h"
+
+1544016454 d:\codeblocks\impartirea careului v021218\button.h
+	<string>
+	"Rect.h"
+	"Geometrie.h"
+
+1544005081 d:\codeblocks\impartirea careului v021218\rect.h
+	<cassert>
+	"Vec2.h"
+
+1543729546 d:\codeblocks\impartirea careului v021218\vec2.h
+
+1543729540 d:\codeblocks\impartirea careului v021218\geometrie.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1543729540 d:\codeblocks\impartirea careului v021218\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1544271438 d:\codeblocks\impartirea careului v021218\board.h
+	<cassert>
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"Vec2.h"
+	"Colors.h"
+	<iostream>
+
+1544269905 d:\codeblocks\impartirea careului v021218\colors.h
+	"graphics.h"
+
+1544349847 source:e:\proiect ip version control\impartirea careului v181208\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	"Button.h"
+	"Board.h"
+	"MouseState.h"
+
+1544236438 e:\proiect ip version control\impartirea careului v181208\button.h
+	<string>
+	"Rect.h"
+	"Geometrie.h"
+
+1544236440 e:\proiect ip version control\impartirea careului v181208\rect.h
+	<cassert>
+	"Vec2.h"
+
+1544236442 e:\proiect ip version control\impartirea careului v181208\vec2.h
+
+1544343103 e:\proiect ip version control\impartirea careului v181208\geometrie.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1544236438 e:\proiect ip version control\impartirea careului v181208\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1544236438 e:\proiect ip version control\impartirea careului v181208\board.h
+	<cassert>
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"Vec2.h"
+	"Colors.h"
+	<iostream>
+
+1544236438 e:\proiect ip version control\impartirea careului v181208\colors.h
+	"graphics.h"
+
+1544349252 e:\proiect ip version control\impartirea careului v181208\mousestate.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1544609389 source:d:\codeblocks\impartirea careului v181209\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	"Button.h"
+	"Board.h"
+	"MouseState.h"
+
+1544538587 d:\codeblocks\impartirea careului v181209\button.h
+	<string>
+	"Rect.h"
+	"Geometrie.h"
+
+1544360937 d:\codeblocks\impartirea careului v181209\rect.h
+	<cassert>
+	"Vec2.h"
+
+1544319668 d:\codeblocks\impartirea careului v181209\vec2.h
+
+1544361097 d:\codeblocks\impartirea careului v181209\geometrie.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1544319664 d:\codeblocks\impartirea careului v181209\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1544610738 d:\codeblocks\impartirea careului v181209\board.h
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"Vec2.h"
+	"Colors.h"
+	<iostream>
+	<cassert>
+
+1544537252 d:\codeblocks\impartirea careului v181209\colors.h
+	"graphics.h"
+
+1544539034 d:\codeblocks\impartirea careului v181209\mousestate.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1544609984 source:d:\codeblocks\impartirea careului v181209\board.cpp
+	"Board.h"
+
+1544950036 source:e:\proiect ip version control\impartirea careului v181214\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	"Button.h"
+	"Board.h"
+	"MouseState.h"
+
+1544836692 e:\proiect ip version control\impartirea careului v181214\button.h
+	<string>
+	"Rect.h"
+	"Geometrie.h"
+
+1544836698 e:\proiect ip version control\impartirea careului v181214\rect.h
+	<cassert>
+	"Vec2.h"
+
+1544836696 e:\proiect ip version control\impartirea careului v181214\vec2.h
+
+1544836692 e:\proiect ip version control\impartirea careului v181214\geometrie.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1544836692 e:\proiect ip version control\impartirea careului v181214\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1544950110 e:\proiect ip version control\impartirea careului v181214\board.h
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"Vec2.h"
+	"Colors.h"
+	<iostream>
+	<cassert>
+
+1544879548 e:\proiect ip version control\impartirea careului v181214\colors.h
+	"graphics.h"
+
+1544836698 e:\proiect ip version control\impartirea careului v181214\mousestate.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1544965158 source:d:\codeblocks\impartirea careului v181216\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	"Button.h"
+	"Board.h"
+	"MouseState.h"
+
+1544836692 d:\codeblocks\impartirea careului v181216\button.h
+	<string>
+	"Rect.h"
+	"Geometrie.h"
+
+1544836698 d:\codeblocks\impartirea careului v181216\rect.h
+	<cassert>
+	"Vec2.h"
+
+1544836696 d:\codeblocks\impartirea careului v181216\vec2.h
+
+1544836692 d:\codeblocks\impartirea careului v181216\geometrie.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1544836692 d:\codeblocks\impartirea careului v181216\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1544965145 d:\codeblocks\impartirea careului v181216\board.h
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"Vec2.h"
+	"Colors.h"
+	<iostream>
+	<cassert>
+
+1544879548 d:\codeblocks\impartirea careului v181216\colors.h
+	"graphics.h"
+
+1544836698 d:\codeblocks\impartirea careului v181216\mousestate.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1545062788 source:d:\codeblocks\impartirea careului v181216.1\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	"Button.h"
+	"MouseState.h"
+	"Menu.h"
+
+1545065687 d:\codeblocks\impartirea careului v181216.1\button.h
+	<string>
+	"Rect.h"
+	"Geometrie.h"
+	"MouseState.h"
+
+1545056911 d:\codeblocks\impartirea careului v181216.1\rect.h
+	<cassert>
+	"Vec2.h"
+
+1544836696 d:\codeblocks\impartirea careului v181216.1\vec2.h
+
+1545058197 d:\codeblocks\impartirea careului v181216.1\geometrie.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1544836692 d:\codeblocks\impartirea careului v181216.1\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1545050911 d:\codeblocks\impartirea careului v181216.1\board.h
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"Vec2.h"
+	"Colors.h"
+	<iostream>
+	<cassert>
+
+1545064400 d:\codeblocks\impartirea careului v181216.1\colors.h
+	"graphics.h"
+
+1545060590 d:\codeblocks\impartirea careului v181216.1\mousestate.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1545050356 d:\codeblocks\impartirea careului v181216.1\level.h
+	"Board.h"
+	<string>
+	<fstream>
+
+1545065715 d:\codeblocks\impartirea careului v181216.1\menu.h
+	<iostream>
+	"Level.h"
+	"Button.h"
+
+1545162538 source:e:\proiect ip version control\impartirea careului v181217.1\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	"Button.h"
+	"MouseState.h"
+	"Menu.h"
+
+1545098986 e:\proiect ip version control\impartirea careului v181217.1\button.h
+	<string>
+	"Rect.h"
+	"Geometrie.h"
+	"MouseState.h"
+
+1545138085 e:\proiect ip version control\impartirea careului v181217.1\rect.h
+	<cassert>
+	"Vec2.h"
+
+1545098990 e:\proiect ip version control\impartirea careului v181217.1\vec2.h
+
+1545098986 e:\proiect ip version control\impartirea careului v181217.1\geometrie.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1545098986 e:\proiect ip version control\impartirea careului v181217.1\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1545099008 e:\proiect ip version control\impartirea careului v181217.1\mousestate.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1545164766 e:\proiect ip version control\impartirea careului v181217.1\menu.h
+	<iostream>
+	"Level.h"
+	"Button.h"
+
+1545164925 e:\proiect ip version control\impartirea careului v181217.1\level.h
+	"Board.h"
+	<string>
+	<fstream>
+
+1545162690 e:\proiect ip version control\impartirea careului v181217.1\board.h
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"Vec2.h"
+	"Colors.h"
+	<iostream>
+	<cassert>
+
+1545098986 e:\proiect ip version control\impartirea careului v181217.1\colors.h
+	"graphics.h"
+
+1545162538 source:e:\proiect ip version control\impartirea careului v181218\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	"Button.h"
+	"MouseState.h"
+	"Menu.h"
+
+1545098986 e:\proiect ip version control\impartirea careului v181218\button.h
+	<string>
+	"Rect.h"
+	"Geometrie.h"
+	"MouseState.h"
+
+1545138085 e:\proiect ip version control\impartirea careului v181218\rect.h
+	<cassert>
+	"Vec2.h"
+
+1545098990 e:\proiect ip version control\impartirea careului v181218\vec2.h
+
+1545098986 e:\proiect ip version control\impartirea careului v181218\geometrie.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1545098986 e:\proiect ip version control\impartirea careului v181218\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1545099008 e:\proiect ip version control\impartirea careului v181218\mousestate.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1545164766 e:\proiect ip version control\impartirea careului v181218\menu.h
+	<iostream>
+	"Level.h"
+	"Button.h"
+
+1545332274 e:\proiect ip version control\impartirea careului v181218\level.h
+	"Board.h"
+	<string>
+	<fstream>
+
+1545335070 e:\proiect ip version control\impartirea careului v181218\board.h
+	<iostream>
+	<cassert>
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"Vec2.h"
+	"Colors.h"
+
+1545098986 e:\proiect ip version control\impartirea careului v181218\colors.h
+	"graphics.h"
+
+1545475937 source:e:\proiect ip version control\impartirea careului v181220\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	"Button.h"
+	"MouseState.h"
+	"Menu.h"
+
+1545469085 e:\proiect ip version control\impartirea careului v181220\button.h
+	<string>
+	"Rect.h"
+	"Geometrie.h"
+	"MouseState.h"
+
+1545138085 e:\proiect ip version control\impartirea careului v181220\rect.h
+	<cassert>
+	"Vec2.h"
+
+1545098990 e:\proiect ip version control\impartirea careului v181220\vec2.h
+
+1545098986 e:\proiect ip version control\impartirea careului v181220\geometrie.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1545098986 e:\proiect ip version control\impartirea careului v181220\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1545471370 e:\proiect ip version control\impartirea careului v181220\mousestate.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1545479896 e:\proiect ip version control\impartirea careului v181220\menu.h
+	<iostream>
+	"Level.h"
+	"Button.h"
+	"LevelManager.h"
+
+1545487018 e:\proiect ip version control\impartirea careului v181220\level.h
+	"Board.h"
+	<string>
+	<fstream>
+
+1545470096 e:\proiect ip version control\impartirea careului v181220\board.h
+	<iostream>
+	<cassert>
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"Vec2.h"
+	"Colors.h"
+
+1545098986 e:\proiect ip version control\impartirea careului v181220\colors.h
+	"graphics.h"
+
+1545481675 e:\proiect ip version control\impartirea careului v181220\levelmanager.h
+	<iostream>
+	<fstream>
+	<string>
+	"Level.h"
+
+1545555248 source:e:\proiect ip version control\impartirea careului v181222\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	"Button.h"
+	"MouseState.h"
+	"Menu.h"
+
+1545469085 e:\proiect ip version control\impartirea careului v181222\button.h
+	<string>
+	"Rect.h"
+	"Geometrie.h"
+	"MouseState.h"
+
+1545501552 e:\proiect ip version control\impartirea careului v181222\rect.h
+	<cassert>
+	"Vec2.h"
+
+1545098990 e:\proiect ip version control\impartirea careului v181222\vec2.h
+
+1545098986 e:\proiect ip version control\impartirea careului v181222\geometrie.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1545098986 e:\proiect ip version control\impartirea careului v181222\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1545471370 e:\proiect ip version control\impartirea careului v181222\mousestate.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1545562902 e:\proiect ip version control\impartirea careului v181222\menu.h
+	<iostream>
+	"Level.h"
+	"Button.h"
+	"LevelManager.h"
+
+1545500108 e:\proiect ip version control\impartirea careului v181222\level.h
+	"Board.h"
+	<string>
+	<fstream>
+
+1545499636 e:\proiect ip version control\impartirea careului v181222\board.h
+	<iostream>
+	<cassert>
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"Vec2.h"
+	"Colors.h"
+
+1545098986 e:\proiect ip version control\impartirea careului v181222\colors.h
+	"graphics.h"
+
+1545560910 e:\proiect ip version control\impartirea careului v181222\levelmanager.h
+	<iostream>
+	<fstream>
+	<string>
+	"Level.h"
+
+1545555248 source:e:\proiect ip version control\impartirea careului v181223\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	"Button.h"
+	"MouseState.h"
+	"Menu.h"
+
+1545469085 e:\proiect ip version control\impartirea careului v181223\button.h
+	<string>
+	"Rect.h"
+	"Geometrie.h"
+	"MouseState.h"
+
+1545574260 e:\proiect ip version control\impartirea careului v181223\rect.h
+	<cassert>
+	"Vec2.h"
+
+1545098990 e:\proiect ip version control\impartirea careului v181223\vec2.h
+
+1545577713 e:\proiect ip version control\impartirea careului v181223\geometrie.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1545098986 e:\proiect ip version control\impartirea careului v181223\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1545471370 e:\proiect ip version control\impartirea careului v181223\mousestate.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1545588409 e:\proiect ip version control\impartirea careului v181223\menu.h
+	<iostream>
+	"Level.h"
+	"Button.h"
+	"LevelManager.h"
+
+1545500108 e:\proiect ip version control\impartirea careului v181223\level.h
+	"Board.h"
+	<string>
+	<fstream>
+
+1545588338 e:\proiect ip version control\impartirea careului v181223\board.h
+	<iostream>
+	<cassert>
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"Vec2.h"
+	"Colors.h"
+
+1545098986 e:\proiect ip version control\impartirea careului v181223\colors.h
+	"graphics.h"
+
+1545589011 e:\proiect ip version control\impartirea careului v181223\levelmanager.h
+	<iostream>
+	<fstream>
+	<string>
+	"Level.h"
+
+1545729786 source:e:\proiect ip version control\impartirea careului v181223.1\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	"Menu.h"
+
+1545469085 e:\proiect ip version control\impartirea careului v181223.1\button.h
+	<string>
+	"Rect.h"
+	"Geometrie.h"
+	"MouseState.h"
+
+1545574260 e:\proiect ip version control\impartirea careului v181223.1\rect.h
+	<cassert>
+	"Vec2.h"
+
+1545098990 e:\proiect ip version control\impartirea careului v181223.1\vec2.h
+
+1545645249 e:\proiect ip version control\impartirea careului v181223.1\geometrie.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1545098986 e:\proiect ip version control\impartirea careului v181223.1\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1545471370 e:\proiect ip version control\impartirea careului v181223.1\mousestate.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1545681061 e:\proiect ip version control\impartirea careului v181223.1\menu.h
+	<iostream>
+	"Level.h"
+	"Button.h"
+	"LevelManager.h"
+
+1545500108 e:\proiect ip version control\impartirea careului v181223.1\level.h
+	"Board.h"
+	<string>
+	<fstream>
+
+1545588338 e:\proiect ip version control\impartirea careului v181223.1\board.h
+	<iostream>
+	<cassert>
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"Vec2.h"
+	"Colors.h"
+
+1545098986 e:\proiect ip version control\impartirea careului v181223.1\colors.h
+	"graphics.h"
+
+1545589011 e:\proiect ip version control\impartirea careului v181223.1\levelmanager.h
+	<iostream>
+	<fstream>
+	<string>
+	"Level.h"
+
+1545694933 e:\proiect ip version control\impartirea careului v181223.1\checkbox.h
+	"Geometrie.h"
+	"Rect.h"
+	"MouseState.h"
+
+1545798144 source:d:\codeblocks\impartirea careului v181226\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	"Menu.h"
+
+1545798146 d:\codeblocks\impartirea careului v181226\menu.h
+	<iostream>
+	"Level.h"
+	"Button.h"
+	"LevelManager.h"
+
+1545909766 d:\codeblocks\impartirea careului v181226\level.h
+	"Board.h"
+	<string>
+	<fstream>
+
+1545916802 d:\codeblocks\impartirea careului v181226\board.h
+	<iostream>
+	<cassert>
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"Vec2.h"
+	"Colors.h"
+
+1545798138 d:\codeblocks\impartirea careului v181226\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1545798138 d:\codeblocks\impartirea careului v181226\geometrie.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1545798146 d:\codeblocks\impartirea careului v181226\rect.h
+	<cassert>
+	"Vec2.h"
+
+1545798146 d:\codeblocks\impartirea careului v181226\vec2.h
+
+1545798138 d:\codeblocks\impartirea careului v181226\colors.h
+	"graphics.h"
+
+1545798138 d:\codeblocks\impartirea careului v181226\button.h
+	<string>
+	"Rect.h"
+	"Geometrie.h"
+	"MouseState.h"
+
+1545798146 d:\codeblocks\impartirea careului v181226\mousestate.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1545798146 d:\codeblocks\impartirea careului v181226\levelmanager.h
+	<iostream>
+	<fstream>
+	<string>
+	"Level.h"
+
+1545798144 source:d:\codeblocks\impartirea careului v181227\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	"Menu.h"
+
+1545923180 d:\codeblocks\impartirea careului v181227\menu.h
+	<iostream>
+	"Level.h"
+	"Button.h"
+	"LevelManager.h"
+
+1545920357 d:\codeblocks\impartirea careului v181227\level.h
+	"Board.h"
+	<string>
+	<fstream>
+
+1545918593 d:\codeblocks\impartirea careului v181227\board.h
+	<iostream>
+	<cassert>
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"Vec2.h"
+	"Colors.h"
+
+1545798138 d:\codeblocks\impartirea careului v181227\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1545798138 d:\codeblocks\impartirea careului v181227\geometrie.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1545798146 d:\codeblocks\impartirea careului v181227\rect.h
+	<cassert>
+	"Vec2.h"
+
+1545798146 d:\codeblocks\impartirea careului v181227\vec2.h
+
+1545798138 d:\codeblocks\impartirea careului v181227\colors.h
+	"graphics.h"
+
+1545798138 d:\codeblocks\impartirea careului v181227\button.h
+	<string>
+	"Rect.h"
+	"Geometrie.h"
+	"MouseState.h"
+
+1545798146 d:\codeblocks\impartirea careului v181227\mousestate.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1545798146 d:\codeblocks\impartirea careului v181227\levelmanager.h
+	<iostream>
+	<fstream>
+	<string>
+	"Level.h"
+
+1546086917 source:e:\proiect ip version control\impartirea careului v181227\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	"Menu.h"
+	"Slider.h"
+	<windows.h>
+
+1546038738 e:\proiect ip version control\impartirea careului v181227\menu.h
+	<iostream>
+	"Level.h"
+	"Button.h"
+	"LevelManager.h"
+
+1545900454 e:\proiect ip version control\impartirea careului v181227\level.h
+	"Board.h"
+	<string>
+	<fstream>
+
+1545900450 e:\proiect ip version control\impartirea careului v181227\board.h
+	<iostream>
+	<cassert>
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"Vec2.h"
+	"Colors.h"
+
+1545900450 e:\proiect ip version control\impartirea careului v181227\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1546037983 e:\proiect ip version control\impartirea careului v181227\geometrie.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1545900458 e:\proiect ip version control\impartirea careului v181227\rect.h
+	<cassert>
+	"Vec2.h"
+
+1545900458 e:\proiect ip version control\impartirea careului v181227\vec2.h
+
+1545900450 e:\proiect ip version control\impartirea careului v181227\colors.h
+	"graphics.h"
+
+1546072895 e:\proiect ip version control\impartirea careului v181227\button.h
+	<string>
+	"Rect.h"
+	"Geometrie.h"
+	"MouseState.h"
+	"UtilityFunctions.h"
+
+1545951186 e:\proiect ip version control\impartirea careului v181227\mousestate.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1546037912 e:\proiect ip version control\impartirea careului v181227\levelmanager.h
+	<iostream>
+	<fstream>
+	<string>
+	"Level.h"
+	"UtilityFunctions.h"
+
+1546090810 e:\proiect ip version control\impartirea careului v181227\slider.h
+	<iostream>
+	<cassert>
+	<string>
+	<algorithm>
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"MouseState.h"
+	"UtilityFunctions.h"
+
+1546073930 e:\proiect ip version control\impartirea careului v181227\utilityfunctions.h
+	"graphics.h"
+	"Rect.h"
+	"Vec2.h"
+	<string>
+
+1546117641 source:d:\codeblocks\impartirea careului v181228\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	"Menu.h"
+	<windows.h>
+	"CheckBox.h"
+
+1546176810 d:\codeblocks\impartirea careului v181228\menu.h
+	<iostream>
+	"Level.h"
+	"Button.h"
+	"LevelManager.h"
+	"UtilityFunctions.h"
+	"SetLevelProperties.h"
+
+1546075062 d:\codeblocks\impartirea careului v181228\level.h
+	"Board.h"
+	<string>
+	<fstream>
+
+1546176741 d:\codeblocks\impartirea careului v181228\board.h
+	<iostream>
+	<cassert>
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"Vec2.h"
+	"Colors.h"
+
+1546075058 d:\codeblocks\impartirea careului v181228\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1546116371 d:\codeblocks\impartirea careului v181228\geometrie.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1546075066 d:\codeblocks\impartirea careului v181228\rect.h
+	<cassert>
+	"Vec2.h"
+
+1546075064 d:\codeblocks\impartirea careului v181228\vec2.h
+
+1546075058 d:\codeblocks\impartirea careului v181228\colors.h
+	"graphics.h"
+
+1546120424 d:\codeblocks\impartirea careului v181228\button.h
+	<string>
+	"Rect.h"
+	"Geometrie.h"
+	"MouseState.h"
+	"UtilityFunctions.h"
+
+1546075066 d:\codeblocks\impartirea careului v181228\mousestate.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1546117765 d:\codeblocks\impartirea careului v181228\utilityfunctions.h
+	"graphics.h"
+	"Rect.h"
+	"Vec2.h"
+	<string>
+
+1546075066 d:\codeblocks\impartirea careului v181228\levelmanager.h
+	<iostream>
+	<fstream>
+	<string>
+	"Level.h"
+	"UtilityFunctions.h"
+
+1546075066 d:\codeblocks\impartirea careului v181228\slider.h
+	<iostream>
+	<cassert>
+	<string>
+	<algorithm>
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"MouseState.h"
+	"UtilityFunctions.h"
+
+1546117319 d:\codeblocks\impartirea careului v181228\checkbox.h
+	"Geometrie.h"
+	"Rect.h"
+	"MouseState.h"
+	<string>
+
+1546176124 d:\codeblocks\impartirea careului v181228\setlevelproperties.h
+	"CheckBox.h"
+	"Button.h"
+	"MouseState.h"
+
+1546418839 source:e:\proiect ip version control\impartirea careului v181230\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	"Menu.h"
+	<windows.h>
+	"CheckBox.h"
+
+1546427020 e:\proiect ip version control\impartirea careului v181230\menu.h
+	<iostream>
+	"Level.h"
+	"Button.h"
+	"LevelManager.h"
+	"UtilityFunctions.h"
+	"SetLevelProperties.h"
+	"RightInGameMenu.h"
+
+1546163860 e:\proiect ip version control\impartirea careului v181230\level.h
+	"Board.h"
+	<string>
+	<fstream>
+
+1546432881 e:\proiect ip version control\impartirea careului v181230\board.h
+	<iostream>
+	<cassert>
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"Vec2.h"
+	"Colors.h"
+
+1546163858 e:\proiect ip version control\impartirea careului v181230\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1546163858 e:\proiect ip version control\impartirea careului v181230\geometrie.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1546163864 e:\proiect ip version control\impartirea careului v181230\rect.h
+	<cassert>
+	"Vec2.h"
+
+1546163866 e:\proiect ip version control\impartirea careului v181230\vec2.h
+
+1546365983 e:\proiect ip version control\impartirea careului v181230\colors.h
+	"graphics.h"
+
+1546420369 e:\proiect ip version control\impartirea careului v181230\button.h
+	<string>
+	"Rect.h"
+	"Geometrie.h"
+	"MouseState.h"
+	"UtilityFunctions.h"
+
+1546163864 e:\proiect ip version control\impartirea careului v181230\mousestate.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1546420360 e:\proiect ip version control\impartirea careului v181230\utilityfunctions.h
+	"graphics.h"
+	"Rect.h"
+	"Vec2.h"
+	<string>
+
+1546163862 e:\proiect ip version control\impartirea careului v181230\levelmanager.h
+	<iostream>
+	<fstream>
+	<string>
+	"Level.h"
+	"UtilityFunctions.h"
+
+1546163864 e:\proiect ip version control\impartirea careului v181230\setlevelproperties.h
+	"CheckBox.h"
+	"Button.h"
+	"MouseState.h"
+
+1546432534 e:\proiect ip version control\impartirea careului v181230\checkbox.h
+	"Geometrie.h"
+	"Rect.h"
+	"MouseState.h"
+	<string>
+
+1546433318 e:\proiect ip version control\impartirea careului v181230\rightingamemenu.h
+	<algorithm>
+	"CheckBox.h"
+	"Button.h"
+	"MouseState.h"
+	"Board.h"
+	"Rect.h"
+	"Colors.h"
+
+1546507963 source:e:\proiect ip version control\impartirea careului v190102\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	"Menu.h"
+	<windows.h>
+	"CheckBox.h"
+
+1546505939 e:\proiect ip version control\impartirea careului v190102\menu.h
+	<iostream>
+	"Level.h"
+	"Button.h"
+	"LevelManager.h"
+	"UtilityFunctions.h"
+	"SetLevelProperties.h"
+	"RightInGameMenu.h"
+
+1546163860 e:\proiect ip version control\impartirea careului v190102\level.h
+	"Board.h"
+	<string>
+	<fstream>
+
+1546458563 e:\proiect ip version control\impartirea careului v190102\board.h
+	<iostream>
+	<cassert>
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"Vec2.h"
+	"Colors.h"
+
+1546163858 e:\proiect ip version control\impartirea careului v190102\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1546163858 e:\proiect ip version control\impartirea careului v190102\geometrie.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1546163864 e:\proiect ip version control\impartirea careului v190102\rect.h
+	<cassert>
+	"Vec2.h"
+
+1546163866 e:\proiect ip version control\impartirea careului v190102\vec2.h
+
+1546365983 e:\proiect ip version control\impartirea careului v190102\colors.h
+	"graphics.h"
+
+1546458573 e:\proiect ip version control\impartirea careului v190102\button.h
+	<string>
+	"Rect.h"
+	"Geometrie.h"
+	"MouseState.h"
+	"UtilityFunctions.h"
+
+1546163864 e:\proiect ip version control\impartirea careului v190102\mousestate.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1546420360 e:\proiect ip version control\impartirea careului v190102\utilityfunctions.h
+	"graphics.h"
+	"Rect.h"
+	"Vec2.h"
+	<string>
+
+1546507975 e:\proiect ip version control\impartirea careului v190102\levelmanager.h
+	<iostream>
+	<fstream>
+	<string>
+	"Level.h"
+	"UtilityFunctions.h"
+	"Slider.h"
+
+1546163864 e:\proiect ip version control\impartirea careului v190102\setlevelproperties.h
+	"CheckBox.h"
+	"Button.h"
+	"MouseState.h"
+
+1546432534 e:\proiect ip version control\impartirea careului v190102\checkbox.h
+	"Geometrie.h"
+	"Rect.h"
+	"MouseState.h"
+	<string>
+
+1546503206 e:\proiect ip version control\impartirea careului v190102\rightingamemenu.h
+	<algorithm>
+	"CheckBox.h"
+	"Button.h"
+	"MouseState.h"
+	"Board.h"
+	"Rect.h"
+	"Colors.h"
+
+1546509754 e:\proiect ip version control\impartirea careului v190102\slider.h
+	<iostream>
+	<cassert>
+	<string>
+	<algorithm>
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"MouseState.h"
+	"UtilityFunctions.h"
+
+1546459350 e:\proiect ip version control\impartirea careului v190102\scrollbar.h
+	<iostream>
+	<cassert>
+	<string>
+	<algorithm>
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"MouseState.h"
+	"UtilityFunctions.h"
+
+1546474504 source:d:\codeblocks\impartirea careului v190103\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	"Menu.h"
+	<windows.h>
+	"CheckBox.h"
+
+1546474506 d:\codeblocks\impartirea careului v190103\menu.h
+	<iostream>
+	"Level.h"
+	"Button.h"
+	"LevelManager.h"
+	"UtilityFunctions.h"
+	"SetLevelProperties.h"
+	"RightInGameMenu.h"
+
+1546474500 d:\codeblocks\impartirea careului v190103\level.h
+	"Board.h"
+	<string>
+	<fstream>
+
+1546474496 d:\codeblocks\impartirea careului v190103\board.h
+	<iostream>
+	<cassert>
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"Vec2.h"
+	"Colors.h"
+
+1546474496 d:\codeblocks\impartirea careului v190103\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1546474496 d:\codeblocks\impartirea careului v190103\geometrie.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1546474506 d:\codeblocks\impartirea careului v190103\rect.h
+	<cassert>
+	"Vec2.h"
+
+1546474506 d:\codeblocks\impartirea careului v190103\vec2.h
+
+1546474496 d:\codeblocks\impartirea careului v190103\colors.h
+	"graphics.h"
+
+1546474496 d:\codeblocks\impartirea careului v190103\button.h
+	<string>
+	"Rect.h"
+	"Geometrie.h"
+	"MouseState.h"
+	"UtilityFunctions.h"
+
+1546474506 d:\codeblocks\impartirea careului v190103\mousestate.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1546474508 d:\codeblocks\impartirea careului v190103\utilityfunctions.h
+	"graphics.h"
+	"Rect.h"
+	"Vec2.h"
+	<string>
+
+1546512477 d:\codeblocks\impartirea careului v190103\levelmanager.h
+	<iostream>
+	<fstream>
+	<string>
+	"Level.h"
+	"UtilityFunctions.h"
+	"Slider.h"
+
+1546512681 d:\codeblocks\impartirea careului v190103\slider.h
+	<iostream>
+	<cassert>
+	<string>
+	<algorithm>
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"MouseState.h"
+	"UtilityFunctions.h"
+
+1546474506 d:\codeblocks\impartirea careului v190103\setlevelproperties.h
+	"CheckBox.h"
+	"Button.h"
+	"MouseState.h"
+
+1546474496 d:\codeblocks\impartirea careului v190103\checkbox.h
+	"Geometrie.h"
+	"Rect.h"
+	"MouseState.h"
+	<string>
+
+1546474506 d:\codeblocks\impartirea careului v190103\rightingamemenu.h
+	<algorithm>
+	"CheckBox.h"
+	"Button.h"
+	"MouseState.h"
+	"Board.h"
+	"Rect.h"
+	"Colors.h"
+
+1546614260 source:e:\proiect ip version control\impartirea careului v190103.1\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	"Menu.h"
+	<windows.h>
+	"CheckBox.h"
+
+1546614702 e:\proiect ip version control\impartirea careului v190103.1\menu.h
+	<iostream>
+	"Level.h"
+	"Button.h"
+	"LevelManager.h"
+	"UtilityFunctions.h"
+	"SetLevelProperties.h"
+	"RightInGameMenu.h"
+
+1546494826 e:\proiect ip version control\impartirea careului v190103.1\level.h
+	"Board.h"
+	<string>
+	<fstream>
+
+1546614202 e:\proiect ip version control\impartirea careului v190103.1\board.h
+	<iostream>
+	<cassert>
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"Vec2.h"
+	"Colors.h"
+
+1546494820 e:\proiect ip version control\impartirea careului v190103.1\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1546494820 e:\proiect ip version control\impartirea careului v190103.1\geometrie.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1546494834 e:\proiect ip version control\impartirea careului v190103.1\rect.h
+	<cassert>
+	"Vec2.h"
+
+1546494836 e:\proiect ip version control\impartirea careului v190103.1\vec2.h
+
+1546494820 e:\proiect ip version control\impartirea careului v190103.1\colors.h
+	"graphics.h"
+
+1546494820 e:\proiect ip version control\impartirea careului v190103.1\button.h
+	<string>
+	"Rect.h"
+	"Geometrie.h"
+	"MouseState.h"
+	"UtilityFunctions.h"
+
+1546494832 e:\proiect ip version control\impartirea careului v190103.1\mousestate.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1546494838 e:\proiect ip version control\impartirea careului v190103.1\utilityfunctions.h
+	"graphics.h"
+	"Rect.h"
+	"Vec2.h"
+	<string>
+
+1546614684 e:\proiect ip version control\impartirea careului v190103.1\levelmanager.h
+	<iostream>
+	<fstream>
+	<string>
+	"Level.h"
+	"UtilityFunctions.h"
+	"Slider.h"
+
+1546612427 e:\proiect ip version control\impartirea careului v190103.1\slider.h
+	<iostream>
+	<cassert>
+	<string>
+	<algorithm>
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"MouseState.h"
+	"UtilityFunctions.h"
+
+1546494838 e:\proiect ip version control\impartirea careului v190103.1\setlevelproperties.h
+	"CheckBox.h"
+	"Button.h"
+	"MouseState.h"
+
+1546494820 e:\proiect ip version control\impartirea careului v190103.1\checkbox.h
+	"Geometrie.h"
+	"Rect.h"
+	"MouseState.h"
+	<string>
+
+1546494836 e:\proiect ip version control\impartirea careului v190103.1\rightingamemenu.h
+	<algorithm>
+	"CheckBox.h"
+	"Button.h"
+	"MouseState.h"
+	"Board.h"
+	"Rect.h"
+	"Colors.h"
+
+1546616233 source:e:\proiect ip version control\impartirea careului v190103.2\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	"Menu.h"
+	<windows.h>
+	"CheckBox.h"
+
+1546618427 e:\proiect ip version control\impartirea careului v190103.2\menu.h
+	<iostream>
+	"Level.h"
+	"Button.h"
+	"LevelManager.h"
+	"UtilityFunctions.h"
+	"SetLevelProperties.h"
+	"RightInGameMenu.h"
+
+1546494826 e:\proiect ip version control\impartirea careului v190103.2\level.h
+	"Board.h"
+	<string>
+	<fstream>
+
+1546617728 e:\proiect ip version control\impartirea careului v190103.2\board.h
+	<iostream>
+	<cassert>
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"Vec2.h"
+	"Colors.h"
+
+1546494820 e:\proiect ip version control\impartirea careului v190103.2\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1546494820 e:\proiect ip version control\impartirea careului v190103.2\geometrie.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1546494834 e:\proiect ip version control\impartirea careului v190103.2\rect.h
+	<cassert>
+	"Vec2.h"
+
+1546494836 e:\proiect ip version control\impartirea careului v190103.2\vec2.h
+
+1546494820 e:\proiect ip version control\impartirea careului v190103.2\colors.h
+	"graphics.h"
+
+1546494820 e:\proiect ip version control\impartirea careului v190103.2\button.h
+	<string>
+	"Rect.h"
+	"Geometrie.h"
+	"MouseState.h"
+	"UtilityFunctions.h"
+
+1546494832 e:\proiect ip version control\impartirea careului v190103.2\mousestate.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1546494838 e:\proiect ip version control\impartirea careului v190103.2\utilityfunctions.h
+	"graphics.h"
+	"Rect.h"
+	"Vec2.h"
+	<string>
+
+1546619776 e:\proiect ip version control\impartirea careului v190103.2\levelmanager.h
+	<iostream>
+	<fstream>
+	<string>
+	"Level.h"
+	"UtilityFunctions.h"
+	"Slider.h"
+
+1546618167 e:\proiect ip version control\impartirea careului v190103.2\slider.h
+	<iostream>
+	<cassert>
+	<string>
+	<algorithm>
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"MouseState.h"
+	"UtilityFunctions.h"
+
+1546494838 e:\proiect ip version control\impartirea careului v190103.2\setlevelproperties.h
+	"CheckBox.h"
+	"Button.h"
+	"MouseState.h"
+
+1546494820 e:\proiect ip version control\impartirea careului v190103.2\checkbox.h
+	"Geometrie.h"
+	"Rect.h"
+	"MouseState.h"
+	<string>
+
+1546494836 e:\proiect ip version control\impartirea careului v190103.2\rightingamemenu.h
+	<algorithm>
+	"CheckBox.h"
+	"Button.h"
+	"MouseState.h"
+	"Board.h"
+	"Rect.h"
+	"Colors.h"
+
+1546616233 source:e:\proiect ip version control\impartirea careului v190104\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	"Menu.h"
+	<windows.h>
+	"CheckBox.h"
+
+1546622698 e:\proiect ip version control\impartirea careului v190104\menu.h
+	<iostream>
+	"Level.h"
+	"Button.h"
+	"LevelManager.h"
+	"UtilityFunctions.h"
+	"SetLevelProperties.h"
+	"RightInGameMenu.h"
+
+1546494826 e:\proiect ip version control\impartirea careului v190104\level.h
+	"Board.h"
+	<string>
+	<fstream>
+
+1546617728 e:\proiect ip version control\impartirea careului v190104\board.h
+	<iostream>
+	<cassert>
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"Vec2.h"
+	"Colors.h"
+
+1546494820 e:\proiect ip version control\impartirea careului v190104\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1546622797 e:\proiect ip version control\impartirea careului v190104\geometrie.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1546494834 e:\proiect ip version control\impartirea careului v190104\rect.h
+	<cassert>
+	"Vec2.h"
+
+1546494836 e:\proiect ip version control\impartirea careului v190104\vec2.h
+
+1546494820 e:\proiect ip version control\impartirea careului v190104\colors.h
+	"graphics.h"
+
+1546622395 e:\proiect ip version control\impartirea careului v190104\button.h
+	<string>
+	"Rect.h"
+	"Geometrie.h"
+	"MouseState.h"
+	"UtilityFunctions.h"
+
+1546494832 e:\proiect ip version control\impartirea careului v190104\mousestate.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1546627226 e:\proiect ip version control\impartirea careului v190104\utilityfunctions.h
+	"graphics.h"
+	"Rect.h"
+	"Vec2.h"
+	<string>
+
+1546696437 e:\proiect ip version control\impartirea careului v190104\levelmanager.h
+	<iostream>
+	<fstream>
+	<string>
+	"Level.h"
+	"UtilityFunctions.h"
+	"Slider.h"
+
+1546693015 e:\proiect ip version control\impartirea careului v190104\slider.h
+	<iostream>
+	<cassert>
+	<string>
+	<algorithm>
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"MouseState.h"
+	"UtilityFunctions.h"
+
+1546494838 e:\proiect ip version control\impartirea careului v190104\setlevelproperties.h
+	"CheckBox.h"
+	"Button.h"
+	"MouseState.h"
+
+1546494820 e:\proiect ip version control\impartirea careului v190104\checkbox.h
+	"Geometrie.h"
+	"Rect.h"
+	"MouseState.h"
+	<string>
+
+1546494836 e:\proiect ip version control\impartirea careului v190104\rightingamemenu.h
+	<algorithm>
+	"CheckBox.h"
+	"Button.h"
+	"MouseState.h"
+	"Board.h"
+	"Rect.h"
+	"Colors.h"
+
+1546781093 source:e:\proiect ip version control\impartirea careului v190105\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	"Menu.h"
+	<windows.h>
+	"CheckBox.h"
+
+1546776174 e:\proiect ip version control\impartirea careului v190105\menu.h
+	<iostream>
+	"Level.h"
+	"Button.h"
+	"LevelManager.h"
+	"UtilityFunctions.h"
+	"SetLevelProperties.h"
+	"RightInGameMenu.h"
+
+1546494826 e:\proiect ip version control\impartirea careului v190105\level.h
+	"Board.h"
+	<string>
+	<fstream>
+
+1546768102 e:\proiect ip version control\impartirea careului v190105\board.h
+	<iostream>
+	<cassert>
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"Vec2.h"
+	"Colors.h"
+
+1546494820 e:\proiect ip version control\impartirea careului v190105\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1546622797 e:\proiect ip version control\impartirea careului v190105\geometrie.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1546494834 e:\proiect ip version control\impartirea careului v190105\rect.h
+	<cassert>
+	"Vec2.h"
+
+1546494836 e:\proiect ip version control\impartirea careului v190105\vec2.h
+
+1546768140 e:\proiect ip version control\impartirea careului v190105\colors.h
+	"graphics.h"
+
+1546776460 e:\proiect ip version control\impartirea careului v190105\button.h
+	<string>
+	"Rect.h"
+	"Geometrie.h"
+	"MouseState.h"
+	"UtilityFunctions.h"
+
+1546494832 e:\proiect ip version control\impartirea careului v190105\mousestate.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1546778637 e:\proiect ip version control\impartirea careului v190105\utilityfunctions.h
+	"graphics.h"
+	"Rect.h"
+	"Vec2.h"
+	<string>
+
+1546704770 e:\proiect ip version control\impartirea careului v190105\levelmanager.h
+	<iostream>
+	<fstream>
+	<string>
+	"Level.h"
+	"UtilityFunctions.h"
+	"Slider.h"
+	"BoardSolvingFunctions.h"
+
+1546778707 e:\proiect ip version control\impartirea careului v190105\slider.h
+	<iostream>
+	<cassert>
+	<string>
+	<algorithm>
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"MouseState.h"
+	"UtilityFunctions.h"
+
+1546764982 e:\proiect ip version control\impartirea careului v190105\boardsolvingfunctions.h
+	<iostream>
+	<cassert>
+	"Board.h"
+
+1546786313 e:\proiect ip version control\impartirea careului v190105\setlevelproperties.h
+	"CheckBox.h"
+	"Button.h"
+	"MouseState.h"
+
+1546494820 e:\proiect ip version control\impartirea careului v190105\checkbox.h
+	"Geometrie.h"
+	"Rect.h"
+	"MouseState.h"
+	<string>
+
+1546707027 e:\proiect ip version control\impartirea careului v190105\rightingamemenu.h
+	<algorithm>
+	"CheckBox.h"
+	"Button.h"
+	"MouseState.h"
+	"Board.h"
+	"Rect.h"
+	"Colors.h"
+
+1546793213 source:d:\codeblocks\impartirea careului v190106\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	"Menu.h"
+	<windows.h>
+	"CheckBox.h"
+
+1546960654 d:\codeblocks\impartirea careului v190106\menu.h
+	<iostream>
+	"Level.h"
+	"Button.h"
+	"LevelManager.h"
+	"UtilityFunctions.h"
+	"SetLevelProperties.h"
+	"RightInGameMenu.h"
+
+1546751936 d:\codeblocks\impartirea careului v190106\level.h
+	"Board.h"
+	<string>
+	<fstream>
+
+1546790580 d:\codeblocks\impartirea careului v190106\board.h
+	<iostream>
+	<cassert>
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"Vec2.h"
+	"Colors.h"
+
+1546751928 d:\codeblocks\impartirea careului v190106\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1546851198 d:\codeblocks\impartirea careului v190106\geometrie.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1546751946 d:\codeblocks\impartirea careului v190106\rect.h
+	<cassert>
+	"Vec2.h"
+
+1546751946 d:\codeblocks\impartirea careului v190106\vec2.h
+
+1546850408 d:\codeblocks\impartirea careului v190106\colors.h
+	"graphics.h"
+
+1546849019 d:\codeblocks\impartirea careului v190106\button.h
+	<string>
+	"Rect.h"
+	"Geometrie.h"
+	"MouseState.h"
+	"UtilityFunctions.h"
+
+1546849738 d:\codeblocks\impartirea careului v190106\mousestate.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1546793218 d:\codeblocks\impartirea careului v190106\utilityfunctions.h
+	"graphics.h"
+	"Rect.h"
+	"Vec2.h"
+	<string>
+
+1546852702 d:\codeblocks\impartirea careului v190106\levelmanager.h
+	<iostream>
+	<fstream>
+	<string>
+	"Level.h"
+	"UtilityFunctions.h"
+	"Slider.h"
+	"BoardSolvingFunctions.h"
+
+1546852896 d:\codeblocks\impartirea careului v190106\slider.h
+	<iostream>
+	<cassert>
+	<string>
+	<algorithm>
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"MouseState.h"
+	"UtilityFunctions.h"
+
+1546751928 d:\codeblocks\impartirea careului v190106\boardsolvingfunctions.h
+	<iostream>
+	<cassert>
+	"Board.h"
+
+1546797824 d:\codeblocks\impartirea careului v190106\setlevelproperties.h
+	"CheckBox.h"
+	"Button.h"
+	"MouseState.h"
+
+1546850046 d:\codeblocks\impartirea careului v190106\checkbox.h
+	"Geometrie.h"
+	"Rect.h"
+	"MouseState.h"
+	<string>
+
+1546850028 d:\codeblocks\impartirea careului v190106\rightingamemenu.h
+	<algorithm>
+	"CheckBox.h"
+	"Button.h"
+	"MouseState.h"
+	"Board.h"
+	"Rect.h"
+	"Colors.h"
+
+1547038861 source:d:\codeblocks\impartirea careului v190109\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	"Menu.h"
+	<windows.h>
+	"CheckBox.h"
+
+1547049296 d:\codeblocks\impartirea careului v190109\menu.h
+	<iostream>
+	"Level.h"
+	"Button.h"
+	"LevelManager.h"
+	"UtilityFunctions.h"
+	"SetLevelProperties.h"
+	"RightInGameMenu.h"
+	"Instructions.h"
+
+1546751936 d:\codeblocks\impartirea careului v190109\level.h
+	"Board.h"
+	<string>
+	<fstream>
+
+1546790580 d:\codeblocks\impartirea careului v190109\board.h
+	<iostream>
+	<cassert>
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"Vec2.h"
+	"Colors.h"
+
+1546751928 d:\codeblocks\impartirea careului v190109\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1546851198 d:\codeblocks\impartirea careului v190109\geometrie.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1546751946 d:\codeblocks\impartirea careului v190109\rect.h
+	<cassert>
+	"Vec2.h"
+
+1546751946 d:\codeblocks\impartirea careului v190109\vec2.h
+
+1546850408 d:\codeblocks\impartirea careului v190109\colors.h
+	"graphics.h"
+
+1546849019 d:\codeblocks\impartirea careului v190109\button.h
+	<string>
+	"Rect.h"
+	"Geometrie.h"
+	"MouseState.h"
+	"UtilityFunctions.h"
+
+1546849738 d:\codeblocks\impartirea careului v190109\mousestate.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1546793218 d:\codeblocks\impartirea careului v190109\utilityfunctions.h
+	"graphics.h"
+	"Rect.h"
+	"Vec2.h"
+	<string>
+
+1546852702 d:\codeblocks\impartirea careului v190109\levelmanager.h
+	<iostream>
+	<fstream>
+	<string>
+	"Level.h"
+	"UtilityFunctions.h"
+	"Slider.h"
+	"BoardSolvingFunctions.h"
+
+1546852896 d:\codeblocks\impartirea careului v190109\slider.h
+	<iostream>
+	<cassert>
+	<string>
+	<algorithm>
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"MouseState.h"
+	"UtilityFunctions.h"
+
+1546751928 d:\codeblocks\impartirea careului v190109\boardsolvingfunctions.h
+	<iostream>
+	<cassert>
+	"Board.h"
+
+1546797824 d:\codeblocks\impartirea careului v190109\setlevelproperties.h
+	"CheckBox.h"
+	"Button.h"
+	"MouseState.h"
+
+1546850046 d:\codeblocks\impartirea careului v190109\checkbox.h
+	"Geometrie.h"
+	"Rect.h"
+	"MouseState.h"
+	<string>
+
+1546850028 d:\codeblocks\impartirea careului v190109\rightingamemenu.h
+	<algorithm>
+	"CheckBox.h"
+	"Button.h"
+	"MouseState.h"
+	"Board.h"
+	"Rect.h"
+	"Colors.h"
+
+1547049819 d:\codeblocks\impartirea careului v190109\instructions.h
+	<iostream>
+	<fstream>
+	<string>
+	"Level.h"
+	"UtilityFunctions.h"
+	"Slider.h"
+	"BoardSolvingFunctions.h"
+
+1547106128 source:e:\proiect ip version control\impartirea careului v190109\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	"Menu.h"
+	<windows.h>
+	"CheckBox.h"
+
+1547238873 e:\proiect ip version control\impartirea careului v190109\menu.h
+	<iostream>
+	"Level.h"
+	"Button.h"
+	"LevelManager.h"
+	"UtilityFunctions.h"
+	"SetLevelProperties.h"
+	"RightInGameMenu.h"
+	"Instructions.h"
+
+1547237203 e:\proiect ip version control\impartirea careului v190109\level.h
+	"Board.h"
+	"BoardSolvingFunctions.h"
+	<string>
+	<fstream>
+
+1547106092 e:\proiect ip version control\impartirea careului v190109\board.h
+	<iostream>
+	<cassert>
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"Vec2.h"
+	"Colors.h"
+
+1547106098 e:\proiect ip version control\impartirea careului v190109\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1547106098 e:\proiect ip version control\impartirea careului v190109\geometrie.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1547106126 e:\proiect ip version control\impartirea careului v190109\rect.h
+	<cassert>
+	"Vec2.h"
+
+1547106130 e:\proiect ip version control\impartirea careului v190109\vec2.h
+
+1547106092 e:\proiect ip version control\impartirea careului v190109\colors.h
+	"graphics.h"
+
+1547106092 e:\proiect ip version control\impartirea careului v190109\button.h
+	<string>
+	"Rect.h"
+	"Geometrie.h"
+	"MouseState.h"
+	"UtilityFunctions.h"
+
+1547106128 e:\proiect ip version control\impartirea careului v190109\mousestate.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1547106132 e:\proiect ip version control\impartirea careului v190109\utilityfunctions.h
+	"graphics.h"
+	"Rect.h"
+	"Vec2.h"
+	<string>
+
+1547249184 e:\proiect ip version control\impartirea careului v190109\levelmanager.h
+	<iostream>
+	<fstream>
+	<string>
+	"Level.h"
+	"UtilityFunctions.h"
+	"Slider.h"
+	"BoardSolvingFunctions.h"
+
+1547106128 e:\proiect ip version control\impartirea careului v190109\slider.h
+	<iostream>
+	<cassert>
+	<string>
+	<algorithm>
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"MouseState.h"
+	"UtilityFunctions.h"
+
+1547106092 e:\proiect ip version control\impartirea careului v190109\boardsolvingfunctions.h
+	<iostream>
+	<cassert>
+	"Board.h"
+
+1547106126 e:\proiect ip version control\impartirea careului v190109\setlevelproperties.h
+	"CheckBox.h"
+	"Button.h"
+	"MouseState.h"
+
+1547106092 e:\proiect ip version control\impartirea careului v190109\checkbox.h
+	"Geometrie.h"
+	"Rect.h"
+	"MouseState.h"
+	<string>
+
+1547229383 e:\proiect ip version control\impartirea careului v190109\rightingamemenu.h
+	<algorithm>
+	"CheckBox.h"
+	"Button.h"
+	"MouseState.h"
+	"Board.h"
+	"Rect.h"
+	"Colors.h"
+
+1547106098 e:\proiect ip version control\impartirea careului v190109\instructions.h
+	<iostream>
+	<fstream>
+	<string>
+	"Level.h"
+	"UtilityFunctions.h"
+	"Slider.h"
+	"BoardSolvingFunctions.h"
+
+1547285127 source:e:\proiect ip version control\impartirea careului v190111\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	"Menu.h"
+	<windows.h>
+	"CheckBox.h"
+
+1547319444 e:\proiect ip version control\impartirea careului v190111\menu.h
+	<iostream>
+	"Level.h"
+	"Button.h"
+	"LevelManager.h"
+	"UtilityFunctions.h"
+	"SetLevelProperties.h"
+	"RightInGameMenu.h"
+	"Instructions.h"
+	"Settings.h"
+
+1547237203 e:\proiect ip version control\impartirea careului v190111\level.h
+	"Board.h"
+	"BoardSolvingFunctions.h"
+	<string>
+	<fstream>
+
+1547318590 e:\proiect ip version control\impartirea careului v190111\board.h
+	<iostream>
+	<cassert>
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"Vec2.h"
+	"Colors.h"
+
+1547106098 e:\proiect ip version control\impartirea careului v190111\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1547316051 e:\proiect ip version control\impartirea careului v190111\geometrie.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1547106126 e:\proiect ip version control\impartirea careului v190111\rect.h
+	<cassert>
+	"Vec2.h"
+
+1547106130 e:\proiect ip version control\impartirea careului v190111\vec2.h
+
+1547295612 e:\proiect ip version control\impartirea careului v190111\colors.h
+	"graphics.h"
+
+1547285237 e:\proiect ip version control\impartirea careului v190111\boardsolvingfunctions.h
+	<iostream>
+	<cassert>
+	"Board.h"
+
+1547299070 e:\proiect ip version control\impartirea careului v190111\button.h
+	<string>
+	"Rect.h"
+	"Geometrie.h"
+	"MouseState.h"
+	"UtilityFunctions.h"
+
+1547106128 e:\proiect ip version control\impartirea careului v190111\mousestate.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1547311276 e:\proiect ip version control\impartirea careului v190111\utilityfunctions.h
+	"graphics.h"
+	"Rect.h"
+	"Vec2.h"
+	<string>
+
+1547285263 e:\proiect ip version control\impartirea careului v190111\levelmanager.h
+	<iostream>
+	<fstream>
+	<string>
+	"Level.h"
+	"UtilityFunctions.h"
+	"Slider.h"
+	"BoardSolvingFunctions.h"
+
+1547301202 e:\proiect ip version control\impartirea careului v190111\slider.h
+	<iostream>
+	<cassert>
+	<string>
+	<algorithm>
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"MouseState.h"
+	"UtilityFunctions.h"
+
+1547319498 e:\proiect ip version control\impartirea careului v190111\setlevelproperties.h
+	"CheckBox.h"
+	"Button.h"
+	"MouseState.h"
+
+1547281309 e:\proiect ip version control\impartirea careului v190111\checkbox.h
+	"Geometrie.h"
+	"Rect.h"
+	"MouseState.h"
+	<string>
+
+1547319540 e:\proiect ip version control\impartirea careului v190111\rightingamemenu.h
+	<algorithm>
+	"CheckBox.h"
+	"Button.h"
+	"MouseState.h"
+	"Board.h"
+	"Rect.h"
+	"Colors.h"
+
+1547106098 e:\proiect ip version control\impartirea careului v190111\instructions.h
+	<iostream>
+	<fstream>
+	<string>
+	"Level.h"
+	"UtilityFunctions.h"
+	"Slider.h"
+	"BoardSolvingFunctions.h"
+
+1547318901 e:\proiect ip version control\impartirea careului v190111\settings.h
+	<iostream>
+	<fstream>
+	<string>
+	"Button.h"
+	"Colors.h"
+	"LevelManager.h"
+	"UtilityFunctions.h"
+	"CheckBox.h"
+	"Slider.h"
+
+1547456045 source:d:\codeblocks\final version\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	"Menu.h"
+	<windows.h>
+	"CheckBox.h"
+
+1547456186 d:\codeblocks\final version\menu.h
+	<iostream>
+	"Level.h"
+	"Button.h"
+	"LevelManager.h"
+	"UtilityFunctions.h"
+	"SetLevelProperties.h"
+	"RightInGameMenu.h"
+	"Instructions.h"
+	"Settings.h"
+
+1547456028 d:\codeblocks\final version\level.h
+	"Board.h"
+	"BoardSolvingFunctions.h"
+	<string>
+	<fstream>
+
+1547283584 d:\codeblocks\final version\board.h
+	<iostream>
+	<cassert>
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"Vec2.h"
+	"Colors.h"
+
+1547283590 d:\codeblocks\final version\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1547283590 d:\codeblocks\final version\geometrie.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1547283628 d:\codeblocks\final version\rect.h
+	<cassert>
+	"Vec2.h"
+
+1547283632 d:\codeblocks\final version\vec2.h
+
+1547283584 d:\codeblocks\final version\colors.h
+	"graphics.h"
+
+1547283584 d:\codeblocks\final version\boardsolvingfunctions.h
+	<iostream>
+	<cassert>
+	"Board.h"
+
+1547283584 d:\codeblocks\final version\button.h
+	<string>
+	"Rect.h"
+	"Geometrie.h"
+	"MouseState.h"
+	"UtilityFunctions.h"
+
+1547456028 d:\codeblocks\final version\mousestate.h
+	<cmath>
+	"graphics.h"
+	"Rect.h"
+
+1547283636 d:\codeblocks\final version\utilityfunctions.h
+	"graphics.h"
+	"Rect.h"
+	"Vec2.h"
+	<string>
+
+1547283628 d:\codeblocks\final version\levelmanager.h
+	<iostream>
+	<fstream>
+	<string>
+	"Level.h"
+	"UtilityFunctions.h"
+	"Slider.h"
+	"BoardSolvingFunctions.h"
+
+1547283632 d:\codeblocks\final version\slider.h
+	<iostream>
+	<cassert>
+	<string>
+	<algorithm>
+	"graphics.h"
+	"Geometrie.h"
+	"Rect.h"
+	"MouseState.h"
+	"UtilityFunctions.h"
+
+1547283632 d:\codeblocks\final version\setlevelproperties.h
+	"CheckBox.h"
+	"Button.h"
+	"MouseState.h"
+
+1547283584 d:\codeblocks\final version\checkbox.h
+	"Geometrie.h"
+	"Rect.h"
+	"MouseState.h"
+	<string>
+
+1547283630 d:\codeblocks\final version\rightingamemenu.h
+	<algorithm>
+	"CheckBox.h"
+	"Button.h"
+	"MouseState.h"
+	"Board.h"
+	"Rect.h"
+	"Colors.h"
+
+1547283592 d:\codeblocks\final version\instructions.h
+	<iostream>
+	<fstream>
+	<string>
+	"Level.h"
+	"UtilityFunctions.h"
+	"Slider.h"
+	"BoardSolvingFunctions.h"
+
+1547283632 d:\codeblocks\final version\settings.h
+	<iostream>
+	<fstream>
+	<string>
+	"Button.h"
+	"Colors.h"
+	"LevelManager.h"
+	"UtilityFunctions.h"
+	"CheckBox.h"
+	"Slider.h"
+

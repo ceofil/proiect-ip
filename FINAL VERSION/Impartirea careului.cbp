@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Impartirea careului" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Impartirea careului" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Impartirea careului" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Board.h" />
+		<Unit filename="BoardSolvingFunctions.h" />
+		<Unit filename="Button.h" />
+		<Unit filename="CheckBox.h" />
+		<Unit filename="Colors.h" />
+		<Unit filename="GameData.txt" />
+		<Unit filename="Geometrie.h" />
+		<Unit filename="Instructions.h" />
+		<Unit filename="Level.h" />
+		<Unit filename="LevelManager.h" />
+		<Unit filename="Menu.h" />
+		<Unit filename="MouseState.h" />
+		<Unit filename="Rect.h" />
+		<Unit filename="RightInGameMenu.h" />
+		<Unit filename="SetLevelProperties.h" />
+		<Unit filename="Settings.h" />
+		<Unit filename="Slider.h" />
+		<Unit filename="UtilityFunctions.h" />
+		<Unit filename="Vec2.h" />
+		<Unit filename="graphics.h" />
+		<Unit filename="level0.txt" />
+		<Unit filename="main.cpp" />
+		<Unit filename="winbgim.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
